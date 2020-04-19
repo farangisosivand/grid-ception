@@ -10,7 +10,7 @@ inherit:
   - img-flex
   - responsive-css
   - border-box
-  - screenshots-all
+  - screenshots-al
 
 html:
   - path: 'index.html'
